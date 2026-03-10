@@ -1,6 +1,6 @@
 # Hi there, I'm Ben Brady! 👋
 
-**Business Analyst • Software Engineer • AI Integrator**
+**Software Engineer • Business Analyst • AI Integrator**
 
 I am somebody who believes the best solutions don't just describe the problem, they fix it. With a background in data solutions and full-stack development, I bridge the gap between operational strategy and technical execution. My approach is defined by a drive to automate the mundane to unlock value.
 
@@ -10,8 +10,8 @@ I am somebody who believes the best solutions don't just describe the problem, t
 
 I specialise in hybrid technical solutioning and unstructured data engineering. Here are a few highlights from my recent professional experience:
 
-* Engineered automated data pipelines and apps that reduced manual intervention by ~60%.
-* Delivered an estimated £1.64m in annual staffing cost savings through workflow automation.
+* Engineered automated data processing workflows and apps, reducing manual intervention by ~60%.
+* Delivered an estimated £1.64m in annual staffing cost savings through intelligent workflow automation and process optimisation.
 * Architected full-stack applications integrating the Gemini API to create context-aware chatbots and automated analysis reports.
 * Analysed complex, high-volume datasets using JavaScript and SQL to identify trends, patterns, and operational inefficiencies.
 * Built interactive, user-friendly dashboards to support executive decision-making and enable remote workforce management.
@@ -20,26 +20,29 @@ I specialise in hybrid technical solutioning and unstructured data engineering. 
 
 ### 🛠 Tech Stack & Tools
 
-- **Languages:** Python, JavaScript, C#, SQL and many more...
-- **AI & Automation:** Applied Generative AI, LLM Integration (Gemini API), High-Impact Workflow Automation
-- **Front-End / UI:** React, CSS3 Animations, HTML5 Canvas, AppSheet
-- **Data & Analytics:** Data Visualisation & Storytelling
+- **Languages:** Python, JavaScript, Kotlin, C#, SQL, HTML5, CSS3
+- **AI & Automation:** Google Gemini API, Generative AI, ReAct Agentic Loop, LLM Prompt Engineering
+- **Front-End / UI:** React, CSS Animations, HTML5 Canvas, Bootstrap
+- **Tools & Infrastructure:** Git / GitHub, Docker, Kubernetes, Linux / Ubuntu, Google Cloud (GCP), SQLite
 
 ---
 
 ### 🚀 Featured Technical Projects
 
+#### [Invoice Generator](https://github.com/BenBrady96/invoice-generator)
+*📄 A professional, client-side PDF invoice generator built with React and Vite. Features 6 premium templates, automatic multi-page pagination, and fully private local storage — no sign-up or server required.*
+
 #### [Agentic Discord Admin](https://github.com/BenBrady96/agentic-discord-admin)
-*🤖 Autonomous Discord admin bot powered by Google Gemini. Uses a ReAct agentic loop to manage your server through natural language - 38 tools, button-based confirmation for destructive actions, and multi-step autonomous workflows.*
+*🤖 Autonomous Discord admin bot powered by Google Gemini. Uses a ReAct agentic loop to manage your server through natural language reasoning, chaining tools, and executing workflows.*
 
 #### [Discord AI Raid Reporter](https://github.com/BenBrady96/discord-fflogs-ai-raid-reporter)
-*🤖 Automatically generates AI-powered raid performance reports from FFLogs links via Discord Channels, showcasing practical LLM integration.*
+*📊 A Discord bot that detects FFLogs links, queries the FFLogs GraphQL API for structured fight data, and sends it to Google Gemini AI for analysis — generating detailed performance reports.*
 
-#### [React Fire Embers](https://github.com/BenBrady96/react-fire-embers) & [React Starfield](https://github.com/BenBrady96/react-starfield)
-*✨ A collection of mesmerising particle effects built with React, CSS animations, and HTML5 Canvas, demonstrating strong front-end capability and attention to UI detail.*
+#### React UI & Particle Effects ([Fire Embers](https://github.com/BenBrady96/react-fire-embers) | [Starfield](https://github.com/BenBrady96/react-starfield) | [Snowfall](https://github.com/BenBrady96/react-snowfall) | [Talking Snowman](https://github.com/BenBrady96/react-talking-snowman))
+*✨ A collection of mesmerising particle effects and UI components built with React, CSS animations, and HTML5 Canvas, demonstrating strong front-end capability and attention to detail.*
 
 #### Workflow Submission & Approval App
-*⚙️ Designed and delivered a custom application that streamlined cross-team processes and standardised data visualisations for technical and non-technical stakeholders*.
+*⚙️ Designed and delivered workflow automation solutions, including a custom application that streamlined cross-team processes and standardised data visualisations for stakeholders.*
 
 ---
 
@@ -51,8 +54,6 @@ I specialise in hybrid technical solutioning and unstructured data engineering. 
 ---
 
 ### 📫 Let's Connect!
-
-I am currently open to new opportunities where I can leverage my mix of stakeholder management, automation logic, and AI integration to drive operational efficiency.
 
 - **LinkedIn:** [linkedin.com/in/ben-brady-b241642b4](https://www.linkedin.com/in/ben-brady-b241642b4)
 - **Location:** England, United Kingdom
