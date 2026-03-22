@@ -29,6 +29,9 @@ I specialise in hybrid technical solutioning and unstructured data engineering. 
 
 ### 🚀 Featured Technical Projects
 
+#### [SimuChat](https://github.com/BenBrady96/SimuChat)
+*💬 A secure, microservices-based AI Chat platform featuring 6 legendary Final Fantasy personas. Powered by Google Gemini. Built with Kotlin (Ktor), React, and PostgreSQL. Features robust security hardening, anti-jailbreak guardrails, and full IaC/K3s orchestration.*
+
 #### [Invoice Generator](https://github.com/BenBrady96/invoice-generator)
 *📄 A professional, client-side PDF invoice generator built with React and Vite. Features 6 premium templates, automatic multi-page pagination, and fully private local storage — no sign-up or server required.*
 
@@ -41,15 +44,22 @@ I specialise in hybrid technical solutioning and unstructured data engineering. 
 #### React UI & Particle Effects ([Fire Embers](https://github.com/BenBrady96/react-fire-embers) | [Starfield](https://github.com/BenBrady96/react-starfield) | [Snowfall](https://github.com/BenBrady96/react-snowfall) | [Talking Snowman](https://github.com/BenBrady96/react-talking-snowman))
 *✨ A collection of mesmerising particle effects and UI components built with React, CSS animations, and HTML5 Canvas, demonstrating strong front-end capability and attention to detail.*
 
-#### Workflow Submission & Approval App
-*⚙️ Designed and delivered workflow automation solutions, including a custom application that streamlined cross-team processes and standardised data visualisations for stakeholders.*
-
 ---
 
 ### 📊 GitHub Stats
 
 ![Ben's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=BenBrady96&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=BenBrady96&layout=compact&theme=tokyonight)
+
+---
+
+### 🌐 Portfolio Website
+
+<div align="center">
+<a href="https://benbrady96.is-a.dev/">
+  <img src="https://github.com/BenBrady96/about-me-webpage/blob/main/src/assets/About%20Me%20Webpage%20Showcase.png" alt="Portfolio Website" />
+</a>
+</div>div>
 
 ---
 
