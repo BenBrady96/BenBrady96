@@ -59,7 +59,7 @@ I specialise in hybrid technical solutioning and unstructured data engineering. 
 <a href="https://benbrady96.is-a.dev/">
   <img src="https://github.com/BenBrady96/about-me-webpage/blob/main/src/assets/About%20Me%20Webpage%20Showcase.png" alt="Portfolio Website" />
 </a>
-</div>div>
+</div>
 
 ---
 
